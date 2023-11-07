@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7d0e526.css",
+    "main.js": "/static/js/main.daa21f2b.js",
+    "static/media/Whirlpool.svg": "/static/media/Whirlpool.698b18f50d3b7d0119ee.svg",
+    "static/media/thumbs-down-fill.svg": "/static/media/thumbs-down-fill.0ca123dfe5934b5b5daa1a35fc70db38.svg",
+    "static/media/thumbs-up-fill.svg": "/static/media/thumbs-up-fill.8cf9f8f0d8be8a0e1202cd3bb0feb649.svg",
+    "static/media/package.svg": "/static/media/package.c48895537b2f455b23b24d3fc870d691.svg",
+    "static/media/thumbs-down.svg": "/static/media/thumbs-down.e85eb1242a9cf687644e1954708bf421.svg",
+    "static/media/thumbs-up.svg": "/static/media/thumbs-up.52381f73020fb5b8cc3af87d9101da4b.svg",
+    "index.html": "/index.html",
+    "main.e7d0e526.css.map": "/static/css/main.e7d0e526.css.map",
+    "main.daa21f2b.js.map": "/static/js/main.daa21f2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d0e526.css",
+    "static/js/main.daa21f2b.js"
+  ]
+}
