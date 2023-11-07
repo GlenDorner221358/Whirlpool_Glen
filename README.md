@@ -28,7 +28,7 @@
     ·
     <a href="https://github.com/GlenDorner221358/Whirlpool/issues">Request Feature</a>
 </p>
-<!-- TABLE OF CONTENTS -->
+
 
 ## Table of Contents
 
@@ -55,13 +55,8 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!--PROJECT DESCRIPTION-->
-
 ## About the Project
 
-<!-- header image of project -->
-
-<!-- ![image1][image1] -->
 
 ### Project Description
 
@@ -69,23 +64,8 @@ Welcome to Dream Team! This is an API-generated webpage, it is similar to seeing
 3pt field ground goals made, field ground percentage ad well as more stats such as offensive rebounds. This website benefits NBA and basketball wannabes to learn more about basketball much easier with the help of Chart.js to display the content in an interesting manner. Please note that most of these NBA stats are up to 2018.
 
 ### Built With
-<!-- [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) -->
-
-<!-- [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://expressjs.com/) -->
 [<img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=gs_emea_south_africa_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624560&adgroup=115749711783) [<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://expressjs.com/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="6%" height="6%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://reactjs.org/)[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://nodejs.org/en/)
 
-
-<!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://nodejs.org/en/) -->
-
-<!-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://ionicframework.com/)
-[<img src="https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png" width="7%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://nodemailer.com/about/) -->
-
-
-<!-- ### Hosted With
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="5%" height="7%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.heroku.com/) -->
-
-<!-- GETTING STARTED -->
-<!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
 
 ## Getting Started
 
@@ -193,20 +173,28 @@ stipulate functionality and improvements that can be implemented in the future.
 
 - We would love to make our Front-end better than it is 
 
-<!-- - We would like to make this a fully responsive website
-- We would like to implement dark mode
-- Implement Pagination on Questions Page -->
-
-<!-- MOCKUPS -->
-
 ## Final Outcome
+
+### Deployment Link
+
+- **Deployment Link** - https://whirlpool-live-334e9800cedf.herokuapp.com/
 
 ### Mockups
 
-<!-- TODO Change this -->
-![image1] [image1]
-![image2][image2]
-![image3][image3]
+#### Profile Page
+![image5](./Mockup/Mockup1.png)
+#### Home/Landing
+![image6](./Mockup/Mockup2.png)
+#### Question
+![image7](./Mockup/Mockup3.png)
+#### Single Question
+![image8](./Mockup/Mockup4.png)
+#### Single Questions Filter
+![image9](./Mockup/Mockup5.png)
+#### Login 
+![image10](./Mockup/Mockup6.png)
+#### Register 
+![image10](./Mockup/Mockup7.png)
 <br>
 
 
