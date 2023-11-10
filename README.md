@@ -179,6 +179,8 @@ stipulate functionality and improvements that can be implemented in the future.
 
 - **Deployment Link** - https://whirlpool-live-334e9800cedf.herokuapp.com/
 
+*NOTE: HEROKU STARTED CHARGING ME SO I CANCELLED THE DEPLOYMENT
+
 ### Mockups
 
 #### Profile Page
@@ -228,7 +230,7 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 
 ## Contact
-**Tsebo Ramonyalioa** - [tsebo.ramonyalioa.an@gmail.com](mailto:tsebo.ramonyalioa.an@gmail.com) - [@inspiration200200](https://www.instagram.com/inspiration__200) 
+**Glen Dorner** - [tsebo.ramonyalioa.an@gmail.com](mailto:tsebo.ramonyalioa.an@gmail.com) - [@inspiration200200](https://www.instagram.com/inspiration__200) 
 
 - **Project Link** - https://github.com/GlenDorner221358/Whirlpool
 
